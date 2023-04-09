@@ -1,0 +1,36 @@
+commit a65d11b185713aad83297e8ff28dd9048b8a0cf3 (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: sotirsobraliev <sotirsobraliev@gmail.com>
+Date:   Sun Apr 9 19:26:44 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit b56ced14aa732ef43e5324ecd0fc239bdc4d4789
+Merge: dd3095a a4d9b93
+Author: sotirsobraliev <sotirsobraliev@gmail.com>
+Date:   Sun Apr 9 19:53:29 2023 +0200
+
+    Merge branch 'bug2'
+
+commit a4d9b93cd470ac3b935f5900ebfefed5575075b5 (origin/bug2, bug2)
+Author: sotirsobraliev <sotirsobraliev@gmail.com>
+Date:   Sun Apr 9 19:11:14 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit dd3095a5fcba1e0beec212f636d16dc5fe6ea695 (origin/bug1, bug1)
+Author: sotirsobraliev <sotirsobraliev@gmail.com>
+Date:   Sun Apr 9 18:40:48 2023 +0200
+
+    Fix wrong loop for reading
+
+commit ad8dd99b0f4578e54521343209fbe43482f3c197
+Author: sotir <sotirsobraliev@gmail.com>
+Date:   Sun Apr 9 16:48:28 2023 +0200
+
+    Add java class
+
+commit 9c7cb9251a80e52f612384f80b0d18cf070d88a1
+Author: sotir <sotirsobraliev@gmail.com>
+Date:   Sun Apr 9 16:33:57 2023 +0200
+
+    Initial commit
